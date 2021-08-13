@@ -18,5 +18,6 @@
         <module>order</module>
         <module>product</module>
         <module>ware</module>
+        <module>elasticsearch</module>
     </modules>
 </project>
