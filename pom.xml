@@ -19,5 +19,14 @@
         <module>product</module>
         <module>ware</module>
         <module>elasticsearch</module>
+        <module>renren-fast</module>
     </modules>
+
+
+    <!--版本控制-->
+    <properties>
+        <swagger.version></swagger.version>
+    </properties>
+
+
 </project>
