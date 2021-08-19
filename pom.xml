@@ -19,7 +19,7 @@
         <module>product</module>
         <module>ware</module>
         <module>elasticsearch</module>
-       <!-- <module>ums</module>    -->              <!--后台管理-->
+        <module>renren-fast</module>              <!--后台管理-->
        <!-- <module>renren-generator</module> -->    <!--代码生成工具-->
     </modules>
 
