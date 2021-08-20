@@ -20,7 +20,8 @@
         <module>ware</module>
         <module>elasticsearch</module>
         <module>renren-fast</module>
-       <!-- <module>renren-generator</module> -->
+        <module>common</module>
+        <!-- <module>renren-generator</module> -->
     </modules>
 
 
